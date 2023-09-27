@@ -37,10 +37,6 @@ public class Main {
         if (k == '+'){
             System.out.printf("+: %d", num+num2);
         }
-
-
         scanner.close();
-
-
     }
 }

@@ -58,10 +58,5 @@ public class Main {
             if (w == 5) continue;
             System.out.println(w);
         }
-
-
-
-
-
     }
 }

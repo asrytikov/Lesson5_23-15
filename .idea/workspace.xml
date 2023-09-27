@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2995b86-14c2-4156-8a35-78ce1890b8bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dz2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p2/Main.java" afterDir="false" />
+    <list default="true" id="f2995b86-14c2-4156-8a35-78ce1890b8bd" name="Changes" comment="Lesson 23-15">
+      <change beforePath="$PROJECT_DIR$/src/dz2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dz2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +46,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695790932947</updated>
-      <workItem from="1695790934699" duration="5251000" />
+      <workItem from="1695790934699" duration="5549000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson 23-15">
+      <created>1695796494755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695796494755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 23-15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 23-15" />
   </component>
 </project>
